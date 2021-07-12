@@ -4,7 +4,7 @@
     {
         public string DoLib2Work()
         {
-            return "Lib2 v5";
+            return "Lib2 v6 alt";
         }
     }
 }
